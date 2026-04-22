@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.route.post"
+    namespace = "com.example.post"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.route.post"
+        applicationId = "com.example.post"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
